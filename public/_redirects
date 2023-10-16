@@ -1,0 +1,7 @@
+# Redirects from what the browser requests to what we serve
+
+/home /
+/login /login
+/signup /signup
+/draw /draw
+/howto /howto
